@@ -25,3 +25,51 @@ The analysis was performed using SQL queries and visualized through a multi-page
 <img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/f01ba354-3d5f-47f2-b32e-caa5e925d56b" />
 <img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/7d0ba203-5461-40ec-b48d-9df401a4b6fc" />
 
+## Business Objectives
+the primary objectives of this project are:
+
+1. Analyze overall ride-booking performance.
+2. Identify trends in successful and cancelled bookings.
+3. Compare vehicle types based on ride distance and ratings.
+4. Analyze revenue by payment method and customer.
+5. Understand customer and driver cancellation behavior.
+6. Analyze customer and driver ratings.
+7. Identify patterns that can support operational decision-making.
+
+ ---
+
+ ## Tools & Technologies
+| tools | Purpose |
+|-------|---------|
+| SQL | Data queries and business analysis |
+| Power BI | Interactive dashboards and visualization |
+| Microsoft Excel | Data storage and initial data inspection | 
+
+
+---
+
+## Dataset
+
+the dataset contains **103,024 booking records**.
+
+## key columns
+
+| column | Description |
+|--------|-------------|
+| Date | Booking date |
+| Time | Booking time |
+| Booking_ID | Unique booking identifier | 
+| Booking_Status | Status of the booking |
+| Customer_ID | Unique customer identifier | 
+
+
+
+
+
+
+
+
+
+
+
+ 
